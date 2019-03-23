@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\n\ Abstract\ class\ Shape\ -\ write\ a\ description\ of\ the\ class\ here\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=
+comment1.target=java.lang.String\ readShape()
+comment2.params=
+comment2.target=void\ computeArea()
+comment3.params=
+comment3.target=void\ computePerimeter()
+comment4.params=
+comment4.target=void\ displayShape()
+comment5.params=
+comment5.target=void\ draw()
+numComments=6
