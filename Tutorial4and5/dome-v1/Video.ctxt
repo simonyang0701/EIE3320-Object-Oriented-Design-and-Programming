@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Video
+comment0.text=\r\n\ The\ Video\ class\ represents\ a\ video\ object.\ Information\ about\ the\ \r\n\ video\ is\ stored\ and\ can\ be\ retrieved.\r\n\ \r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 2002-05-02\r\n
+comment1.params=theTitle\ theDirector\ time
+comment1.target=Video(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Video\r\n
+comment2.params=comment
+comment2.target=void\ setComment(java.lang.String)
+comment2.text=\r\n\ Enter\ a\ comment\ for\ this\ video.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getComment()
+comment3.text=\r\n\ Return\ the\ comment\ for\ this\ video.\r\n
+comment4.params=ownIt
+comment4.target=void\ setOwn(boolean)
+comment4.text=\r\n\ Set\ the\ flag\ indicating\ whether\ we\ own\ this\ video.\r\n
+comment5.params=
+comment5.target=boolean\ getOwn()
+comment5.text=\r\n\ Return\ information\ whether\ we\ own\ a\ copy\ of\ this\ video.\r\n
+comment6.params=
+comment6.target=void\ print()
+comment6.text=\r\n\ Print\ details\ about\ this\ Video\ to\ the\ text\ terminal.\r\n
+numComments=7
