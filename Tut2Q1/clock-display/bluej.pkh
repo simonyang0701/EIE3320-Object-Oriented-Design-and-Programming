@@ -1,0 +1,24 @@
+#BlueJ package file
+dependency1.from=ClockDisplay
+dependency1.to=NumberDisplay
+dependency1.type=UsesDependency
+package.editor.height=271
+package.editor.width=397
+package.editor.x=42
+package.editor.y=65
+package.numDependencies=1
+package.numTargets=2
+target1.height=50
+target1.modifiers=0
+target1.name=NumberDisplay
+target1.type=ClassTarget
+target1.width=110
+target1.x=190
+target1.y=110
+target2.height=50
+target2.modifiers=0
+target2.name=ClockDisplay
+target2.type=ClassTarget
+target2.width=90
+target2.x=70
+target2.y=50

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rectangle\ here.\r\n\ Two\ double\ data\ fields\ named\ width\ and\ height\ that\ specify\ the\ width\ and\ height\ of\ the\ rectangle.\ The\ default\ values\ are\ 1\ for\ both\ width\ and\ height.\r\n\ A\ no-arg\ constructor\ that\ creates\ a\ default\ rectangle.\r\n\ A\ constructor\ that\ creates\ a\ rectangle\ with\ the\ specified\ width\ and\ height.\r\n\ A\ method\ named\ getArea()\ that\ returns\ the\ area\ of\ this\ rectangle.\r\n\ A\ method\ named\ getPerimeter()\ that\ returns\ the\ perimeter.\r\n\ @author\ 13102841d\r\n\ @version\ (2017/9/25)\r\n
+comment1.params=
+comment1.target=Rectangle()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n
+comment2.params=getWidth
+comment2.target=double\ setWidth(double)
+comment3.params=getHeight
+comment3.target=double\ setHeight(double)
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=\r\n\ @return\ \ \ \ the\ area\ of\ this\ rectangle\r\n
+comment5.params=
+comment5.target=double\ getPerimeter()
+comment5.text=\r\n\ @return\ \ \ \ the\ perimeter\ of\ this\ rectangle\r\n
+numComments=6
