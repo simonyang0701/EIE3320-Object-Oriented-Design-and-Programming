@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="DebitServer" method="POST">
+<p><strong>Please select the amount that you want to withdraw from your
+account?</strong></p>
+<dl>
+<dd><input type="radio" name="Amount" value="1">1 </dd>
+<dd><input type="radio" name="Amount" value="10">10</dd>
+<dd><input type="radio" checked name="Amount" value="100">100</dd>
+<dd><input type="radio" name="Amount" value="1000">1000</dd>
+</dl>
+<p><input type="submit" value="Submit"> </p>
+</form>
+<form method="POST" action="CreditServlet">
+<p><strong>Please select the amount that you want to deposit in your account?</strong></p>
+<dl>
+<dd><input type="radio" name="Amount" value="1">1 </dd>
+<dd><input type="radio" name="Amount" value="10">10</dd>
+<dd><input type="radio" checked name="Amount" value="100">100</dd>
+<dd><input type="radio" name="Amount" value="1000">1000</dd>
+</dl>
+<p><input type="submit" value="Submit" name="B1"></p>
+</form>
+<form method="GET" action="CheckBalanceServlet">
+<p><input type="submit" value="Check Balance" name="B1"></p>
+</form>
+</body>
+</html>
